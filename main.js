@@ -4,7 +4,7 @@ const botaoTrocarImagem = document.getElementById('trocar-imagem')
 
 const imagens = [
     'url("./img/ceu-dia.jpg")',
-    'url("./img/ceu-noite.jpg")',
+    'url("./img/ceu-noite.webp")',
     'url("./img/ceu-tarde.jpg")'
 ]
 
